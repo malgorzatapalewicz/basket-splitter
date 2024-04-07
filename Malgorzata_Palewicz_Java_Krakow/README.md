@@ -12,7 +12,7 @@ Biblioteka BasketSplitter została stworzona w celu umożliwienia optymalnego po
 zakupowego klienta na grupy dostaw. Jej działanie opiera się na wcześniej zdefiniowanej konfiguracji
 sposobów dostawy produktów oraz listy produktów w koszyku, które są przechowywane w plikach w 
 formacie JSON. Głównym celem biblioteki jest minimalizacja liczby dostaw oraz maksymalizacja ilości
-produktów w największych grupach dostaw.
+produktów w największych grupach dostaw. Program można uruchomić za pomocą komendy <br> java -jar target/Malgorzata_Palewicz_Java_Krakow-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Struktura projektu
 Projekt składa sie z następujących elementów:
