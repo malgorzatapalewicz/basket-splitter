@@ -1,0 +1,5 @@
+{
+  "product1": ["deliveryMethod1", "deliveryMethod2"],
+  "product2": ["deliveryMethod1"],
+  "product3": ["deliveryMethod2", "deliveryMethod3"]
+}

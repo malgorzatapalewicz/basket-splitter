@@ -1,0 +1,10 @@
+{
+  "product1": ["deliveryMethod1", "deliveryMethod2"],
+  "product2": ["deliveryMethod1", "deliveryMethod3","deliveryMethod4"],
+  "product3": ["deliveryMethod4" ,"deliveryMethod5"],
+  "product4":  ["deliveryMethod6"],
+  "product5": ["deliveryMethod7" ,"deliveryMethod8"],
+  "product6":  ["deliveryMethod9"],
+  "product7": ["deliveryMethod10"],
+  "product8": ["deliveryMethod11"]
+}
